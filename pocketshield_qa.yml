@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/pocketshield
     username: root
-    password: Water123##Water123
+    password: "{cipher}da7007a103a71cde83448bb70d19806c1ad648d9452148d837df3013e07d1146cd225efa7fbd60d60aee7196847a2f12"
 
   jpa:
     hibernate:
